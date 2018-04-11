@@ -1,0 +1,6 @@
+framework module coreFrame {
+  umbrella header "coreFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'coreFrame_Example' do
+  pod 'coreFrame', :path => '../'
+
+  target 'coreFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - coreFrame (0.1.0)
+
+DEPENDENCIES:
+  - coreFrame (from `../`)
+
+EXTERNAL SOURCES:
+  coreFrame:
+    :path: ../
+
+SPEC CHECKSUMS:
+  coreFrame: 40901205a4c87316be62d735390bba6eba57fd9e
+
+PODFILE CHECKSUM: 0e59fc9a387db79354a0a56b3d1991ceef5ad1f0
+
+COCOAPODS: 1.2.1
